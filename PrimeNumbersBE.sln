@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbersBE", "PrimeNumbersBE\PrimeNumbersBE.csproj", "{9F5EE383-DA23-4B0E-9436-D004CC77ECB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbersTest", "PrimeNumbersTest\PrimeNumbersTest.csproj", "{3017CCFC-83EE-4CEA-9500-9950211DFEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5EE383-DA23-4B0E-9436-D004CC77ECB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5EE383-DA23-4B0E-9436-D004CC77ECB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5EE383-DA23-4B0E-9436-D004CC77ECB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5EE383-DA23-4B0E-9436-D004CC77ECB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3017CCFC-83EE-4CEA-9500-9950211DFEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3017CCFC-83EE-4CEA-9500-9950211DFEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3017CCFC-83EE-4CEA-9500-9950211DFEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3017CCFC-83EE-4CEA-9500-9950211DFEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E67A75B-3109-4ECE-89BA-6D1362AD3CB5}
+	EndGlobalSection
+EndGlobal
